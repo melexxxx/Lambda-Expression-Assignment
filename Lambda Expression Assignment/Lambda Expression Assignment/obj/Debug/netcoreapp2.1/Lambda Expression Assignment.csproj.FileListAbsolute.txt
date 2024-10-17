@@ -1,0 +1,11 @@
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\netcoreapp2.1\Lambda Expression Assignment.csprojAssemblyReference.cache
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\netcoreapp2.1\Lambda Expression Assignment.csproj.CoreCompileInputs.cache
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\netcoreapp2.1\Lambda Expression Assignment.AssemblyInfoInputs.cache
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\netcoreapp2.1\Lambda Expression Assignment.AssemblyInfo.cs
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\netcoreapp2.1\Lambda Expression Assignment.deps.json
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\netcoreapp2.1\Lambda Expression Assignment.runtimeconfig.json
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\netcoreapp2.1\Lambda Expression Assignment.runtimeconfig.dev.json
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\netcoreapp2.1\Lambda Expression Assignment.dll
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\netcoreapp2.1\Lambda Expression Assignment.pdb
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\netcoreapp2.1\Lambda Expression Assignment.dll
+C:\Users\danielmieleniewski\source\repos\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\netcoreapp2.1\Lambda Expression Assignment.pdb
